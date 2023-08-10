@@ -1,0 +1,243 @@
+AF, Afganistanas
+IE, Airija
+AL, Albanija
+DZ, Alžyras
+AS, Amerikos Samoja
+AD, Andora
+AO, Angola
+AI, Anguila
+AQ, Antarktika
+AG, Antigva ir Barbuda
+AR, Argentina
+AM, Armėnija
+AW, Aruba
+AU, Australija
+AT, Austrija
+AZ, Azerbaidžanas
+BH, Bachreinas
+BS, Bahamai
+BY, Baltarusija
+BD, Bangladešas
+BB, Barbadas
+BP, Be pilietybės
+BE, Belgija
+BZ, Belizas
+BJ, Beninas
+BM, Bermudai
+GW, Bisau Gvinėja
+BO, Bolivija
+BA, Bosnija ir Hercegovina
+BW, Botsvana
+BV, Bouveto sala
+BR, Brazilija
+VG, Britanijos Virginijos salos
+IO, Britų Indijos okeano teritorija
+BN, Brunėjus
+BG, Bulgarija
+BF, Burkina Fasas
+BI, Burundis
+BT, Butanas
+TD, Čadas
+CZ, Čekija
+CF, Centrinė Afrikos Respublika
+CL, Čilė
+DK, Danija
+GB, Didžioji Britanija
+DO, Dominikos Respublika
+DM, Dominikos Sandrauga
+CI, Dramblio Kaulo Krantas
+DJ, Džibutis
+EG, Egiptas
+EC, Ekvadoras
+ER, Eritrėja
+EE, Estija
+ET, Etiopija
+FO, Faro salos
+FJ, Fidžis
+PH, Filipinai
+FK, Folklendo salos (Malvinas)
+GA, Gabonas
+GY, Gajana
+GM, Gambija
+GH, Gana
+GI, Gibraltaras
+GR, Graikija
+GD, Grenada
+GL, Grenlandija
+GE, Gruzija
+GU, Guamas
+GP, Gvadelupa
+GT, Gvatemala
+GN, Gvinėja
+HT, Haitis
+HM, Herdi ir Makdonaldo salos
+HN, Hondūras
+HK, Honkongas
+IN, Indija
+ID, Indonezija
+IQ, Irakas
+IR, Iranas
+IS, Islandija
+ES, Ispanija
+IT, Italija
+IL, Izraelis
+JM, Jamaika
+JP, Japonija
+VI, JAV Virginijos salos
+YE, Jemenas
+JO, Jordanija
+YU, Jugoslavija
+US, Jungtinės Amerikos Valstijos
+FM, Jungtinės Mikronezijos Valstijos
+AE, Jungtiniai Arabų Emyratai
+ME, Juodkalnija
+CV, Kabo Verdė
+CX, Kalėdų salos
+KH, Kambodža
+CM, Kamerūnas
+CA, Kanada
+QA, Kataras
+KZ, Kazachstanas
+KY, Keimano salos
+KE, Kenija
+CN, Kinija
+CY, Kipras
+KG, Kirgizstanas
+KI, Kiribatis
+CC, Kokoso salos
+CO, Kolumbija
+KM, Komorai
+CG, Kongas
+CD, Kongo Demokratinė Respublika
+KP, Korėjos LDR
+KR, Korėjos Respublika
+CS, Kosovas
+CR, Kosta Rika
+HR, Kroatija
+CU, Kuba
+CK, Kuko salos
+KW, Kuveitas
+LA, Laosas
+LV, Latvija
+PL, Lenkija
+LS, Lesotas
+LB, Libanas
+LR, Liberija
+LY, Libija
+LI, Lichtenšteinas
+LU, Liuksemburgas
+MG, Madagaskaras
+YT, Majota
+MO, Makau
+MK, Makedonija
+MY, Malaizija
+MW, Malavis
+MV, Maldyvai
+ML, Malis
+MT, Malta
+IM, Mano sala
+MA, Marokas
+MH, Maršalo salos
+MQ, Martinika
+MU, Maurikijus
+MR, Mauritanija
+MX, Meksika
+MM, Mianmaras (Burma)
+MD, Moldova
+MC, Monakas
+MN, Mongolija
+MS, Montseratas
+MZ, Mozambikas
+NA, Namibija
+NC, Naujoji Kaledonija
+NZ, Naujoji Zelandija
+NR, Naūru
+NP, Nepalas
+NG, Nigerija
+NE, Nigeris
+NI, Nikaragva
+NU, Niuė
+NF, Norfolko salos
+NO, Norvegija
+NL, Olandija
+AN, Olandijos Antilės
+OM, Omanas
+PK, Pakistanas
+PW, Palau
+PS, Palestina
+PA, Panama
+PG, Papua-Naujoji Gvinėja
+PY, Paragvajus
+PE, Peru
+ZA, Pietų Afrikos Respublika
+SS, Pietų Sudanas
+PN, Pitkairnas
+PT, Portugalija
+FR, Prancūzija
+GF, Prancūzijos Gajana
+TF, Prancūzų Pietų teritorija
+PF, Prancūzų Polinezija
+PR, Puerto Rikas
+GQ, Pusiaujo Gvinėja
+RE, Rejunjonas
+TP, Rytų Timoras
+RW, Ruanda
+RO, Rumunija
+RU, Rusija
+SV, Salvadoras
+SM, San Marinas
+ST, San Tomė ir Prinsipė
+SA, Saudo Arabija
+SC, Seišeliai
+SN, Senegalas
+KN, Sent Kristoferis ir Nevis
+LC, Sent Lūsija
+VC, Sent Vinsentas ir Grenadinai
+RS, Serbija
+MP, Šiaurės Marijanos salos
+SL, Siera Leonė
+SG, Singapūras
+SY, Sirija
+SK, Slovakija
+SI, Slovėnija
+SB, Solomono salos
+SO, Somalis
+LK, Šri Lanka
+SD, Sudanas
+FI, Suomija
+SR, Surinamas
+SH, Šv. Helena
+PM, Šv. Petras ir Mikelonas
+SJ, Svalbardas ir Jan Majeno salos
+SZ, Svazilendas
+SE, Švedija
+CH, Šveicarija
+TJ, Tadžikistanas
+TH, Tailandas
+TW, Taivanas
+TZ, Tanzanija
+TG, Togas
+TK, Tokolanas
+TO, Tonga
+TT, Trinidadas ir Tobagas
+TN, Tunisas
+TR, Turkija
+TM, Turkmėnistanas
+TC, Turkų ir Kaikų salos
+TV, Tuvalu
+UG, Uganda
+UA, Ukraina
+UY, Urugvajus
+UZ, Uzbekistanas
+EH, Vakarų Sachara
+WS, Vakarų Samoja
+VU, Vanuatu
+VA, Vatikanas
+VE, Venesuela
+HU, Vengrija
+VN, Vietnamas
+DE, Vokietija
+WF, Volso ir Futunos salos
+ZR, Zayras
+ZM, Zambija
+ZW, Zimbabvė
